@@ -16,9 +16,22 @@ body {
 h2 {
     background-color: beige;
     font-family: Courier;
+    margin-bottom: 0;
+    margin-left: 3%;
 }
 
 h3 {
+    margin-top: 0;
+    margin-left: 3%;
     background-color: darkcyan;
     color: aliceblue;
+}
+
+img {
+    margin-left: 5%;
+}
+
+div {
+    padding: 0;
+    background-color: grey;
 }
